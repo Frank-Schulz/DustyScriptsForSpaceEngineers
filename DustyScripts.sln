@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockRotorsWhenFlyingFast", "LockRotorsWhenFlyingFast\LockRotorsWhenFlyingFast.csproj", "{4FA4A5D2-5403-4C26-A82B-F18B7E48202E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blargmode'sAggressiveAirlocks(BetterHangars)", "Blargmode'sAggressiveAirlocks(BetterHangars)\Blargmode'sAggressiveAirlocks(BetterHangars).csproj", "{A0AC87B9-72E7-405E-B6B4-054EE3114D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotorAngleMatching", "RotorAngleMatching\RotorAngleMatching.csproj", "{63E563D3-3D6C-467A-A06D-CC0B9A6CD022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA4A5D2-5403-4C26-A82B-F18B7E48202E}.Debug|x64.ActiveCfg = Debug|x64
+		{4FA4A5D2-5403-4C26-A82B-F18B7E48202E}.Debug|x64.Build.0 = Debug|x64
+		{A0AC87B9-72E7-405E-B6B4-054EE3114D43}.Debug|x64.ActiveCfg = Debug|x64
+		{A0AC87B9-72E7-405E-B6B4-054EE3114D43}.Debug|x64.Build.0 = Debug|x64
+		{63E563D3-3D6C-467A-A06D-CC0B9A6CD022}.Debug|x64.ActiveCfg = Debug|x64
+		{63E563D3-3D6C-467A-A06D-CC0B9A6CD022}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93ED7C8-E428-4943-AC41-B069EE6B3F01}
+	EndGlobalSection
+EndGlobal
